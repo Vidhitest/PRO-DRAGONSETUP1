@@ -1,7 +1,7 @@
 {
-  "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "Pro-DragonBot",
+  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Drak_Legend_Pro). Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/fef2d78da4110fbf98a2e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBots",
+  "repository": "https://github.com/DARK-LEGEND-PRO/PRO-DRAGONSETUP/",
+  "website": "https://github.com/DARK-LEGEND-PRO/PRO-DRAGONSETUP/",
+  "success_url": "https://t.me/DRAK_LEGEND_PRO",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
+      "value": "『⚡- Lêɠêɳ̃dPro -⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "@LegendBot_Pros",
+      "value": "",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBots",
+      "value": "",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I Am Pro Person Because I am User Of Pro LegendBot 🇮🇳.",
+      "value": "I Am Pro Person Because I am User Of Pro DragonBot 🇮🇳.",
       "required": true
     },
     "PM_PIC": {
@@ -140,8 +140,8 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "PRO_STRING": {
-      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
+    "DRAGON_STRING": {
+      "description": "Get this value by running https://replit.com/@LEGEND-LX/DRAGONBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
