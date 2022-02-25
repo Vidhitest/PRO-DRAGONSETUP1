@@ -19,9 +19,11 @@ USERNAME = ⚜[LEGEND-PRO](https://github.com/DARK-LEGEND-PRO)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 _________DEPLOY TO HERUKO_______
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-LEGEND-PRO/PRO-DRAGONSETUP)
 
 __________DEPLOY TO RAILWAY_______
+
 <p><a href=https://github.com/DARK-LEGEND-PRO/PRO-DRAGONSETUP> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
