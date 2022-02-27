@@ -30,22 +30,22 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -65,27 +65,27 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/a65b33005eb5b79bbecb6.jpg",
       "required": false
     },
     "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/fef2d78da4110fbf98a2e.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/c09065bcec846867920eb.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/950a30881dd1a0d6e7fa1.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": "❤️‍🔥",
       "required": false
     },
     "BIO_MSG": {
@@ -95,7 +95,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/7eb522b934cff77e70d42.jpg",
       "required": false
     },
     "PM_MSG": {
@@ -174,12 +174,12 @@
     },
     "HELP_EMOJI1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🔱",
       "required": false
     },
     "HELP_EMOJI2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "❤️‍🔥",
       "required": false
     },
     "PM_DATA": {
