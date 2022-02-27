@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "",
+      "value": "DragonPro_UserBot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "",
+      "value": "@ABOUT_PROLEGENDX",
       "required": false
     },
     "BOY_OR_GIRL": {
